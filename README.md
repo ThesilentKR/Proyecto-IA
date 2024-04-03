@@ -4,7 +4,7 @@
 [![3.jpg](https://i.postimg.cc/pVqVJhxS/3.jpg)](https://postimg.cc/grLPY0xy)
 
 ## We worked based on this statement:
-Platform to learn to play chess in a simple way for people without knowledge, apart from being able to face an AI to practice, it will also give you useful tips to improve
+Platform to learn to play chess in a simple way for people without knowledge, apart from being able to face an AI to practice
 
 ### Important
 (This readme will be updated during the course of the project)
