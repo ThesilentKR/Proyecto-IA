@@ -1,8 +1,4 @@
 
-
-/* Please ❤ this if you like it! */
-
-
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
 
 body{
@@ -284,5 +280,5 @@ h6 span{
   position: relative;
   width: 100%;
   display: block;
-  text-align: center; /* Centrar el texto */
+  text-align: center;
 }
